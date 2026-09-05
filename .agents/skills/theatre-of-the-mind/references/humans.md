@@ -1,18 +1,41 @@
 # Human examples
 
-Verbatim table prose. Steal the move — seating, one unexpected fact, one non-sight sense, then stop — not the setting.
+Verbatim table prose. Steal the move — interaction state, one unexpected fact,
+one non-sight sense after access, and an affordance — not the setting or
+wording. Objects
+are not miniature location descriptions; route them by what the current hand,
+eye, tool, or established knowledge can legitimately expose.
 
-When the job is an object, item, treasure, or landmark, start here. Check [examples.md](examples.md) and [voice.md](voice.md) on every pass. Steal one place seating move from [places.md](places.md) — from the door, hanging on a landmark already named. Seat the object on the camera. End on a fact a hand can use. One spoken block. No labels.
+When the job is an object, item, treasure, or landmark, start here. Check
+[examples.md](examples.md), [voice.md](voice.md), [boundary.md](boundary.md),
+and [surfaces.md](surfaces.md) on every pass. Steal one place seating move from
+[places.md](places.md) when the object is in a scene, but do not force a spatial
+camera onto an object-only output. State whether it is visible, held/inspected,
+recognized/used, or recurrent/intelligent. End on a fact or affordance the
+current player can use.
 
-When the job is a room, hall, tavern, city, wilderness, or first look at a location, start in [places.md](places.md). Those passages are published boxed text and live-table prose, copied verbatim.
+For a standalone item portrait, use the cold player-appearance layer by
+default: common whole/type, silhouette and scale, material/construction/parts,
+then one or two stable sensory or ordinary physical behaviors. Include all
+supplied state variants, such as buoyancy, a hollow response when tapped, or a
+cut-open structure, as clearly general description rather than a current
+inspection. Keep Appearance/Cold Portrait, Identified Properties, and DM
+Lore/Secret separate; effects, durations, speeds, rarity, attunement, curses,
+biology, and history require an explicit identified-properties request.
 
-When the job is a creature, monster, or combat turn, start in [experts.md](experts.md). Those lines are named DMs, copied verbatim.
+When the job is a room, hall, city, wilderness, or first look at a location, start in [places.md](places.md). A shop, tavern, or service request follows the Business route in [surfaces.md](surfaces.md); use place passages for its spatial setting only when that is the requested job. Those passages are published boxed text and live-table prose quoted for analysis; generated prose must be fresh.
+
+When the job is a creature, monster, or combat turn, start in [experts.md](experts.md). Those lines are named DMs, quoted for analysis rather than reuse.
 
 When the job is a person the party can talk to, start in [npcs.md](npcs.md).
 
 ## First glance, then wait
 
-Living things and large structures first. Ordinary objects get one line. Detail waits for a hand. An object they might open, take, or break gets one concrete property in the room pass — locked, half-open, no rust, dust that moves. That property is the affordance. The rest waits.
+Living things and large structures first. Ordinary objects get one line. Detail
+waits for the relevant access. An object they might open, take, or break gets
+one concrete property in the room pass — locked, half-open, no rust, dust that
+moves. That property is the affordance. The rest waits for a declared and
+resolved interaction.
 
 Dining room, opening glance:
 
@@ -169,7 +192,7 @@ Use the body-and-source move — nose, heat, smoke off the named fire. Cut the n
 ## What to copy
 
 - Seat it — dominating the far wall, above the bar, behind the altar, on the pedestal.
-- One fact a hand would notice — dust, date stamp, no rust, silver ash leaf, warm in a cold room — folded onto the object, not given its own sentence after the name. One property a question can catch if they have not touched it yet — locked, half-open, unbroken, cleaner than the rest.
+- One fact the current access can support — dust, date stamp, no rust, silver ash leaf, warm in a cold room — folded onto the object, not given its own sentence after the name. One property a question can catch if they have not touched it yet — locked, half-open, unbroken, cleaner than the rest. Holding an intact object never reveals its interior, underside, function, history, contents, taste, or magic by itself.
 - One sense that is not a picture — tingle, rust smell, crinkle of the nose, creak of the chest — attached to that same object.
 - Reuse the same landmark instead of adding a new one.
 - Stop before the inventory and the bonus.

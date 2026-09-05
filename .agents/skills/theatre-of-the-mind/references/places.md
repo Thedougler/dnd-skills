@@ -1,6 +1,14 @@
 # Place descriptions
 
-Verbatim location prose from named DMs and published adventures. Copy the move — the same beat as every other file, scaled to a place — not the setting. Camera first. Three to five anchors. One secondary sense when it earns its keep. A playable change. Then stop. Long published boxed text is a source of moves, not a length target. Draft in layers. Emit one spoken block.
+Verbatim location prose from named DMs and published adventures. Copy the move
+— not the wording or a universal beat — and scale it to a spatial job. Select
+one frame:
+approach/route, survey/layout, or tactical field. Camera first, three to five
+useful anchors at most, and one secondary sense when it earns its keep. After
+the relevant visible state is conveyed, a pressure, opportunity, micro-reveal,
+or located change can open play. Long published boxed text is a source of
+moves, not a length target. Draft in layers when the place is loaded, then emit
+the branch's natural player-facing form.
 
 - Arrival — published boxed text
 - Arrival — live table
@@ -8,9 +16,28 @@ Verbatim location prose from named DMs and published adventures. Copy the move �
 - Combat is still a place
 - What to copy
 
-When the job is a room, hall, tavern, city, wilderness, travel, aerial vantage, boxed text, or first look at a location, start here. Check [examples.md](examples.md) and [voice.md](voice.md) on every pass. Steal one object or person move from [humans.md](humans.md) or [npcs.md](npcs.md) — a Face on a statue, a hand-fact on a door. Seat the camera in sentence one.
+When the job is a room, hall, city, wilderness, travel, aerial vantage, boxed
+text, or first look at a location, start here. A shop, tavern, or service
+request follows the Business route in [surfaces.md](surfaces.md); use this file
+for its spatial setting only when that is the requested job. Check [examples.md](examples.md),
+[voice.md](voice.md), [boundary.md](boundary.md), and [surfaces.md](surfaces.md)
+on every pass. Steal one object or person move from [humans.md](humans.md) or
+[npcs.md](npcs.md) — a Face on a statue, a hand-fact on a door. Seat the camera
+in the first sentence for a spatial branch.
 
 When the job is only the object inside the place, start in [humans.md](humans.md). When the job is a creature or a fight turn, start in [experts.md](experts.md). When the job is a person standing in the place, start in [npcs.md](npcs.md).
+
+## Standalone place or region portrait
+
+Use a neutral player reference with no viewer, party, current inhabitants,
+encounter, plot, or camera. Cover overall form and scale, topology and vertical
+relationships, major established public landmarks, established/public
+approaches, sensory character, and recognizable public hazard manifestations.
+Include established physical geography even when it spans a large region; a
+compact overview followed by coherent paragraphs is enough. Exclude rumors
+unless attributed, hidden or earned routes, exact mechanics, named hidden
+creatures or threats, tactics, design commentary, and future outcomes. Group
+facts by this portrait contract rather than replaying the parent's headings.
 
 ## Arrival — published boxed text
 
@@ -161,7 +188,7 @@ Name one landmark. Hang every later line on it. Full seating lines live in [expe
 
 ## What to copy
 
-- Camera first. Sentence one says where the viewpoint stands — from the door, at the tree line, far below you, looking across — plus how large the space is and one band. Not a secluded grove. One camera for the whole spoken block. Stage, near, far, and block before a fourth subject.
+- Camera first. Sentence one says where the viewpoint stands — from the door, at the tree line, far below you, looking across — plus how large the space is and one band. Not a secluded grove. Keep one camera within the selected spatial frame. Stage, near, far, and block before a fourth subject.
 - Image first. Name the visible thing, then the likeness. The canopy packed so tight it looks like a floor. The lake flashing between the trees. Do not let the metaphor be the subject. A phrase they cannot mark on a sketch is not a stage.
 - One dominant abnormality when the place is wrong — sick trees ending at a ring; inside, wet-green grass. Evidence, not the explanation.
 - Where the light is, and the ground underfoot — evening fog on the first steps, torch pools, wet stones.
@@ -169,7 +196,8 @@ Name one landmark. Hang every later line on it. Full seating lines live in [expe
 - A concrete property on anything they might cross, open, break, or hide behind — an unbroken ring, a floor cleaner than the rest, a half-open kitchen door.
 - One secondary sense when it intensifies the picture — animal musk, surf slapping the hull, sweet rot off the fruit, furnace heat. Each with a source.
 - Seat things relative to this camera — opposite the entrance, far left corner, a long drop below, behind them the mud they came from.
-- End the spoken block on a located change they can hold — a drop hitting the nearer mound, dust forming a woman at the alcove, a figure slipping the far door, dirt jumping along the crushed path toward the bank. Name what moved or was caught and where it sits from the stage.
-- Occupants and a delayed focal body stay in the draft when the user is still in the doorway. When they asked to set the whole scene, fold them into the same camera and stop on the change. No Layer labels.
+- After the relevant visible state is conveyed, end the spatial pass on a pressure, opportunity, micro-reveal, or located change they can hold — a drop hitting the nearer mound, dust forming a woman at the alcove, a figure slipping the far door, or dirt jumping along the crushed path toward the bank. Name what moved or was caught and where it sits from the stage when there is a live change.
+- Draft loaded occupants in attention order, but do not withhold visible bodies because the party is in a doorway. For a requested whole-scene first look, include every relevant visible occupant, object, route, relationship, and current motion in one coherent spoken block before stopping. Attention hierarchy and fold prevent a catalog; the anchor ceiling is not permission to omit relevant visible facts. For a doorway-only snapshot, stop at its current opening. No Layer labels.
+- Audit visible entrances, exits, retreat, cover, blocked paths, and traversable hazards when they affect a decision. Introduce each landmark once, keep units or bands consistent, and do not force a route into a survey frame.
 - Reuse the same landmark on the next line. A new floor plan waits.
 - Published boxed text may run long on the page. A spoken block still needs a drawable picture with a short subject list — see the beach, the clearing, and the aerial chase in [examples.md](examples.md). Later lines stay short.

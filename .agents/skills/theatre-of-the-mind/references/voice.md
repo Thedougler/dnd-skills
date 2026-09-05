@@ -1,154 +1,197 @@
 # Table ear
 
-How the line sounds when a good DM says it out loud. Read this on every job. The beat in [examples.md](examples.md) is the test; this file is the ear.
+This file governs language, rhythm, and player-safe clarity across every
+surface. [surfaces.md](surfaces.md) chooses the shape: only a spatial branch
+needs a seated camera and drawable field. A dialogue turn, object state,
+recap, handout, vision, or transition has its own contract and stop.
 
-Write for ears. Players hear the passage once. They cannot reread the paragraph while listening. A beautiful sentence that adds a fourth subject makes the spoken block worse.
+For a standalone portrait, write one self-contained subject reference: no
+assumed viewer, party, encounter, specific environment, current motion,
+interaction, dialogue, pressure, handoff, or closing question. For a situated
+loaded first look, the one spoken block must still include every relevant
+currently visible subject and relationship before its stop. Do not confuse the
+two modes.
+
+The cold portrait defaults to public appearance and observable state, even when
+the parent is marked `[agent, dm]`; completeness is not a dump of every source
+heading. Put explicitly granted identified mechanics in a separate layer after
+the description.
 
 ## Speech
 
-Write it as if you are pointing at the thing itself. The line has to stand alone — table or book.
+Write so a player can hear it once and know what they can point at, understand,
+or answer. Use the concrete noun and verb first; let one setting-specific
+signature property do memorable work. Plain word before specialist word. One
+unusual comparison can sharpen a picture, but a private metaphor must not
+become the subject. Generic mood is not evidence.
 
-- Camera first. Sentence one says where this viewpoint stands — above, inside, approaching, or looking across — plus how large the space is and one distance band. One camera for the whole spoken block. Fill a staging card before the draft — stage, near, far, block, three anchors, located change.
-- Image first. Name the visible thing, then the likeness. The canopy packed so tight it looks like a floor. A lake flashing between the trees. Do not let the metaphor be the subject. A phrase the table cannot mark on a sketch is not a stage.
-- Kitchen-table words. Pebble beach, not shingle. Inlet, not throat. Stone steps, not risers. Broad leaves, stiff as shields — not shield-leaves. Swollen clear body, not swollen lobed mantle. If the sailor or specialist word is the right word, put the plain word beside it once and then you may use the short one.
-- Concrete nouns. One motion verb that does the job. Color, material, wet or dry, and minor anatomy fold onto that verb. Do not stack four motion verbs on the same body, and do not give each body part its own sentence.
-- Grammar a first hearing can take. Strange image, simple sentence. "Sap-bright roots come out of the last sick trees and end in a ring of black flowers" is two pictures and a parse. "Roots the color of fresh sap run out of the last sick trees and stop at a ring of black flowers" lands on the first pass.
-- Likeness, not baptism. A thing with a deer's head. Built like a hyena. Big as a wolf. Then the rust-red ears, the claws, the pale arms. Do not name it a deer and take the name back.
-- Silhouette before catalog. Shape, scale, posture, then the wrong fact. "A man-high walking deadwood" makes the ear work. "A man-sized bundle of dead branches leans among the trunks" does not.
-- Every body part belongs to a named body. "The throat rattles" is empty. "The thing's throat rattles" is a picture.
-- One secondary sense on a first look when it intensifies the picture — surf on the hull, rot off the fruit, wet wool and ale. Each sense comes off a named thing. Do not cycle the senses because a list asked.
-- Third person after the camera seat. A single locative *you* is legal in sentence one when the user named the vantage — *Far below you*, *Ahead of you*. No *your faces*, no *whoever is last*, no neck, no ankle, no boot. After that, seat on the wreck, the trail, the trunks, the open air. When something notices the party, turn it toward the landmark this camera occupies.
-- No sweeping narrator, no theme sentence, no one who already knows the ending. No second block that starts with "If they". The scene is what is happening now. The hunt after dark waits for the next spoken block.
-- The last sentence is a located change. Name what moved or was caught and where it sits from the stage — dirt jumping along the crushed path toward the bank, a rope snapping on the wreck. A taut line with no catch is mood. A tremor with no place is mood.
-- A first look does not resolve a hit. A tendril snapping taut toward the open air is a live bit. A hook through a boot is a later line, after someone has acted.
-- Emit a spoken block. Draft layers stay off the page. No Layer headings, no bullets, no analysis.
+- Keep the sentence shape appropriate to the surface. A spatial first look may
+  seat a camera and place a live handle; an object may need only state plus
+  affordance; dialogue may be one quoted turn; a handout should be scannable
+  rather than spoken-block geometry.
+- Image before metaphor: name the visible thing, then the likeness. The canopy
+  packed so tight it looks like a floor is drawable; “a green floor” is not a
+  stage. Use one coherent camera for a spatial block, never a second vantage
+  halfway through it.
+- For spatial work, keep assumed PC bodies, formation, and touch out of the
+  line. Seat the field on landmarks and describe the relationship a character
+  can actually perceive; do not write “whoever is last,” an ankle, a boot, or
+  “your faces” without a declared position or action.
+- Silhouette before parts: give a creature or person its familiar shape, scale,
+  and supplied stable posture or ordinary behavior before minor anatomy. Use a
+  current posture only in a situated moment. Every body part belongs to a named
+  body. A sourced sense comes off the thing making it, not an atmospheric
+  narrator.
+- When a creature or group is requested, make that body the grammatical and
+  attentional subject. Habitat gets only enough room to locate its entrance or
+  motion. For groups, use a collective noun, one supported formation or motion,
+  and one supported visible consequence. Turn an established number into a
+  drawable body relation only when the relation needs no invented comparison.
+- Fold color, material, posture, and minor anatomy onto the named thing or
+  action that owns them. Do not give a claw, eye, color, or marker a whole
+  sentence unless it is the branch's actual payload.
+- A context-free portrait is still authored prose: use active concrete verbs
+  for stable behavior or physical response, not schema labels such as
+  “warning system,” “population,” “general traffic,” “provides seating,” or
+  “on offer.” An item may state a general state-qualified view such as what a
+  cut cross-section reveals, without pretending an intact viewer saw inside.
+- Creature response prose may pair an observable stimulus with an observable
+  response, but cannot add an unseen mover, cause, meaning, direction, or intent
+  unless that interpretation is explicitly public canon. A name alone does not
+  supply a persistent marker.
+- A standalone place or region uses neutral structure, topology, established
+  landmarks and approaches, sensory character, and recognizable public hazard
+  manifestations. Keep current inhabitants, encounters, plot, tactics, exact
+  mechanics, hidden threats, and unconfirmed routes out.
+- Keep each detail inside current sensory access, established knowledge, a
+  declared and resolved interaction, or earned public canon. Say “may” or
+  “looks like” only for an inference grounded in named evidence; uncertainty
+  wording cannot rescue invention. If no channel exists, cut or route it.
+- Business prose translates an established purpose or current service state into
+  concrete nouns and verbs. Do not recite subtype, hours, clientele taxonomy,
+  “population,” schema labels, or abstract service fields. A signature must do
+  business work; if no interface or action is supported, do not fabricate a
+  handoff. Source silence is not evidence of absence, so do not narrate no X,
+  emptiness, closed access, missing staff, or a missing route without positive
+  viewpoint/current-state or parent evidence.
+- Source wording is not a player-facing template. Build a terse fact inventory
+  in fragmentary keywords with provenance/access and no source sentences. Set
+  source phrasing aside, group facts by the target contract rather than source
+  order, and draft with different subject order, syntax, verbs, and comparisons.
+  Compare against the polished parent and every read expert excerpt for clause
+  overlap, distinctive metaphor, callout, recognizable sequence, or matching
+  section order across paragraphs. Rewrite; synonym-swapping sentence by
+  sentence is not enough. Reference examples teach moves, not lines to echo.
+- Avoid telegram rhythm and isolated detail. Join claws, spit, eyes, color, or
+  a marking to the sentence that already owns the body; reserve a short line
+  for the actual payload, reveal, attack, or answerable turn.
+- When several bodies must be distinguished, show a stable visible trait while
+  the body moves. The handle waits until the trait is seen or a player names
+  it; position or what the body is currently doing is not a durable name.
+- Avoid a sweeping narrator, theme sentence, or explanation of what the mood
+  means. Stage the sound, light, material, or behavior that makes the mood
+  legible and let the player interpret it.
+- Preserve player agency. Show a stimulus, behavior, and consequence that has
+  actually happened, then leave the next response open. Do not use “if they,”
+  “what they decide,” or a future outcome as player-facing narration.
+- Give a relationship its two ends when the orientation matters: “the empty
+  crane swings over the cargo deck,” not “the crane swings over the gap.”
 
-The test — a stranger could answer where we are, what we see, what is moving, and what matters right now, then sketch the anchors and the lead body. They should not be holding twelve images. They should not need a heading to know where to stop.
+## Rhythm and memorability
 
-## Rhythm
+Length follows attention. Use a medium breath when a few related details belong
+to one subject; use a short line for a reveal, decision, attack, or answerable
+turn; use a list or compact layout for a handout when that is what rereading
+needs. Do not turn three anchors, four to eight sentences, or any sentence
+count into a cognitive law.
 
-Mix the lengths on purpose. Default is a medium sentence. A stack of three-word punches is as fake as a stack of long ones, and it is the usual shape of detail isolation.
+For a spatial first look, broad orientation and close inspection are separate
+scales. Keep one frame, one unit system, and a manageable selection of anchors;
+questions and actions earn the next detail. A requested full/loaded spatial
+first look is one complete spoken block of the relevant visible state, not a
+partial teaser; a doorway-only snapshot is partial only when explicitly asked.
+A spatial ending follows the complete visible state and may be pressure,
+opportunity, micro-reveal, or located motion. Other branches stop on their own
+opening, not on a forced movement.
 
-- One sentence that seats the camera — where we stand, how big, how far, a body-scale measure.
-- One or two medium breaths that fold two or three related details onto the same anchor or body.
-- One short sentence that lands the live bit — reveal, decision, attack, or sudden change. Only that short sentence may be a fragment.
-
-If three sentences in a row only describe how things look, turn one into motion, sound, reaction, or change. A drop off a pear beats another clause about bark. If claws, spit, and eyes each own a sentence, join them onto the body that is already moving.
-
-Read it out loud once. If you run out of air before the picture is there, you started too fancy. If you finish in one breath and they still cannot draw the body, you stopped too early. If the page is a stack of three-word punches — "Antlers. Chin drips. Eyes sit forward." — fold them. If you have to rewind a sentence to see it, the grammar lost the first hearing.
-
-## Steal across jobs
-
-The files are examples of one beat. Use them that way.
-
-- From [places.md](places.md) — camera first, doorway or air as the seat, landmark reused, light named, one abnormality, one spoken block on a loaded room.
-- From [humans.md](humans.md) — one unexpected physical fact, detail waiting for a hand, smell coming off a named thing, one property that invites a question.
-- From [experts.md](experts.md) — silhouette then wrong fact, body already doing something, traits folded onto that verb, mid-line short, death then the next live body. The Angry GM rat is facts hung on one body across the scene, not five facts in the first shot, and not five short sentences in the establishing shot.
-- From [npcs.md](npcs.md) — one Face, already occupied, same words on the return.
-
-A room can take a Face (the statue that is watching). A monster can take an object fact (no rust, dust that moves). A person can take a creature seating (rising from behind the counter). A wilderness path can take a fight landmark (the person-wide break in the ferns, used again on the next line).
+Read the line aloud once. If the player cannot name the branch's payload, add
+the missing noun, owner, state, relationship, access, or answerable opening. If
+the player has to remember a catalog, cut texture, duplicate subjects, and
+isolated body facts. If the line claims a fact no one could access, cut it or
+route it to the owning content-stock skill; qualification cannot create
+evidence.
 
 ## Slop gate
 
-Run this after the draft. Cut the construction. Put a visible thing in its place.
-
 | Cut | Put this instead |
 | --- | --- |
-| not X, but Y / not just X | the fact you were going to land second |
-| you can't help but / a sense of / you feel that | a body fact, or cut the clause |
-| the air is thick / crackles / charged | smoke, heat, quiet, a sound with a source |
-| words hung in the air | the sentence that did not finish, or cut |
+| not X, but Y / not just X | the fact that earns its place |
+| you can't help but / a sense of / you feel that | the observable body, voice, or consequence |
+| the air is thick / crackles / charged | smoke, heat, quiet, or a sourced sound |
+| words hung in the air | the unfinished sentence or cut it |
 | tapestry, testament, dance of light, weight of history | the object doing the work |
-| the very X / ancient and unknowable | the weed, the date stamp, the open mouth |
-| dimly lit + long shadows + dust motes as a stack | one light source and what it fails to reach |
-| walking deadwood / shield-leaves / the Quiet as the picture | the plain body or plant, then the likeness |
-| ripe pears and a horse-tall bird given the same weight | pears folded onto the tree; the bird gets the sentence |
-| five body facts on the first look at the focal creature | two or three, folded onto the verb; save one for when it moves |
-| claws / spit / eyes / a marking each in its own sentence | the same facts as clauses on the body that is moving |
-| "The eyes are red." / "The floor is wet." as a whole sentence | red eyes fix on the path; wet stone under the next step |
-| Split-ear, White-blaze, Black-mane on first sight | one with a torn left ear drops onto the step; the handle waits |
-| a roster of stations (one on the lip, one on the step, one chewing) | formation through motion — drops, fans, spreads, holds, circles |
-| a whole first look as one literary block | one spoken block; keep extra silhouettes for the next ask if they have not stepped closer |
-| Layer 1 / Layer 2 / Layer 3 on the page | continuous read-aloud; layers stay in the draft |
-| mute green floor / seam of water / hole of noon as the subject | noon glare in the valley; the lake flashing between the trees |
-| same plane / green sitting / visual geometry | moss on the wings blending into the leaves |
-| heat sits in the hole / atmosphere with no surface | heat shimmers off the blades; heat presses off the stone |
-| dirt jumps / a tremor with no place | packed dirt jumps along the crushed path toward the bank |
-| swollen lobed mantle / radula / pneumatophore | swollen clear body; the plain animal word first |
-| heaves, slides, catches, and hangs in one sentence | one verb owns the body; the rest wait or fold |
-| a taut line with no catch | the tendril goes tight toward the open air, the rope, or the flyer |
-| mix of X and Y (emotions) | what the face or hand is doing |
-| barely above a whisper / eyes sparkling / shiver down the spine | the actual voice, the actual eye, the cold on the skin |
-| little did they know / unbeknownst | what this viewpoint can notice |
-| the room seems to consider you / the woods are watching / the tick is the whole sound | a head that turned, a fern that twitched, water ticking off a leaf |
-| despite himself / torn between / for what felt like an eternity | the next live bit |
-| thirty feet of dark fur / a mass of / a shape | the animal they would name if they had to guess |
-
-Horror may withhold a label and arrive in pieces. The pieces still have to be drawable. That is not the same move as padding a landed fact with "not the other thing."
+| the very X / ancient and unknowable | the weed, date stamp, open mouth, or other noun |
+| walking deadwood / shield-leaves / the Quiet | the plain body or plant, then the likeness |
+| a room, object, or handout as a literary block | its branch payload and usable arrangement |
+| private motive or future outcome | the current action and the response opening |
+| a mechanic disguised as atmosphere | an observable manifestation, then a separate mechanic |
+| warning system / population / general traffic / provides seating / on offer | the named body using the supported place, object, or service in a concrete verb |
 
 ## Thin gate
 
-The other failure. The line is clean and still no one can see it.
-
 | If the draft does this | Add this |
 | --- | --- |
-| sailor or poet word with no plain neighbor | pebble beach, inlet, stone steps, wreck, rail |
-| parts with no familiar animal or size | big as a wolf, built like a hyena, the size of a pony |
-| place with no light and no ground | evening fog on the first steps, wet stones, barnacles on the rail |
-| only sight, and the place feels like a painting | one sound or one smell off a named thing, or one motion |
-| five sentences the same length | join two, break one |
-| first look under a breath and a half | keep going until the sketch works |
-| "rust inside" with no color or surface | rust-red insides of the ears |
-| a boundary hung on an unseen thing | show the thing, then the boundary |
-| a whole sentence on a twitch, a color, or a claw | fold it into the line that already has the body |
-| pack named by pose or snack | scar, color, size, a quirk that survives the move |
-| coined compound carrying the picture | the plain plant, place, or body, then the likeness |
-| a sentence that needs a second hearing | same image, simpler grammar |
-| "a deer stands" then claws | a thing with a deer's head, then the claws |
-| "the throat" with no owner | the thing's throat, the carcass, the man |
-| "Antlers." as its own sentence | antlers on the head that already has a sentence |
-| field with no left, right, or range | brush on both sides, a short run, the trail as the only footing |
-| If they hold / if anyone steps / what comes back | stop. the live bit already landed |
-| your faces / whoever is last / that ankle / the boot | the landmark the thing is on |
-| canopy as a floor with no above or below | Far below you, the canopy — or from the open air above the trees |
-| two cameras in one block | pick the vantage the user named and keep it |
-| sweat stands on the neck | heat under the canopy, if the heat is there |
-| a hook through a boot on a first look | a tendril snapping taut toward the open air, the rope, or the trail |
-| last line is only mood | name the object that moved or was caught, and where it sits from the stage |
-| sentence one loads the whole sketch | vantage, scale, one band; the rest wait |
-| camera on the bank, grass described as a floor dropping to that water | grass runs inland from the bank; water stays beside it |
-| posture with no table meaning | watching the path; weight on one foot; wings half-spread for balance |
-| camouflage as geometry | moss on the wings blending into the leaves |
+| specialist word with no plain neighbor | the familiar noun beside it once |
+| object has a name but no state or use | visible, held, opened, recognized, or recurrent state plus affordance |
+| standalone item omits an established state variant | whole/type, silhouette/scale, material/parts, and stable sensory or physical states, including a clearly qualified cross-section when supplied |
+| body has no familiar size or behavior | silhouette, scale, posture, or current motion |
+| habitat or time leads while a requested creature remains generic | make the creature/group the subject; retain only enough habitat to seat its entrance or motion |
+| a creature group has no drawable formation or consequence | collective noun plus one supported formation/motion and one supported visible consequence |
+| standalone creature explains a response with an unseen cause or meaning | name only the observable stimulus and response; cut the agent, interpretation, direction, or intent |
+| place has no orientation | the selected spatial frame, stage, and relevant route or exit |
+| standalone place repeats the source's section order or GM metadata | regroup neutral form, topology, public landmarks/approaches, sensory character, and public hazard manifestations |
+| vehicle has no access boundary | the visible deck, hatch, rail, gangway, or other interface |
+| action has no owner or counterpart | name the body and both ends of the relationship |
+| dialogue has no want or answerable turn | the tactic, physical cue, and one utterance |
+| recap replays a scene without current pressure | the play-made truth and tonight's live handle |
+| handout reads like DM narration | its owner, purpose, payload, and scannable form |
+| vision states an illusion as fact | the subjective signal and explicit uncertainty |
+| transition redraws what did not change | the time/cut marker and only the new situation |
+| standalone portrait assumes a camera, party, current event, or handoff | stable whole/silhouette, defining traits, ordinary supported behavior/use, and signature fact only |
+| business prose repeats metadata or has no current service action | concrete service nouns and verbs; if unsupported, safe identification outside narration or upstream routing |
+| a negative claim rests only on source silence | positive viewpoint/current-state or parent evidence for the absence, otherwise cut the claim |
+| a portrait claims completeness by copying every parent heading | cover the target portrait contract only; keep private mechanics, tactics, lore, and unresolved facts out |
+| the draft retains source order or swaps synonyms sentence by sentence | rebuild from fragmentary fact keywords with a new order, syntax, verbs, and comparison; compare for overlap |
+| spatial field lacks a route, retreat, cover, or blocked path that matters | show the visible option or obstruction |
+| spatial ending is only mood | a pressure, opportunity, micro-reveal, or located change |
+| visual geometry is the subject (“same plane,” “green sitting,” “hole of noon”) | name the object and verb: moss blends into leaves; noon glare fills the valley |
+| a boundary hangs on an unseen thing | show the surface, edge, or landmark that owns the boundary |
+| a trembling line has no catch or place | name its target and location, or cut it as mood |
+| a first look resolves a hit | show the reaching line or buildup; resolve contact after the declared action |
+| a body part arrives before its owner | name the body, familiar size, and silhouette first |
+| a handle arrives before its trait | show the stable trait while the body moves; let players name or reuse it afterward |
+| an established full scene ends at its first micro-opening | include all relevant visible subjects and relationships before the natural stop |
 
-Adding slop to fix thin is not the fix. Add the missing noun.
+Adding purple prose to fix thin is not the fix. Add the missing noun or
+relationship. Adding mechanics to fix uncertainty breaks the player boundary.
 
-## Weight and names
+After both gates, read once more for weight. A whole sentence belongs to a
+usable anchor, body, payload, or live opening — not to a claw, eye, color, or
+marker unless that is the branch's actual payload. Keep modifiers that change
+what a player can draw or do (rusty, half-open, fire-scarred, person-wide) and
+cut modifiers that only raise the register. One comparison is enough; a hinge
+in every sentence is the model clearing its throat.
 
-A sentence is a unit of attention. Give a whole sentence to an anchor, a new body, or the live bit — not to a claw, an eye, a color, or a marking. Fold texture and minor facts into the line that already owns the subject. Red eyes, a working nose, living-wood fingers ride that verb, or they wait for the first movement.
+## Steal across jobs
 
-Hang a boundary on something already shown. "Stone starts where the moss starts" is empty if the moss has not been put in the picture. Show the moss on the stone, or drop the moss.
+- From [places.md](places.md): a stage, usable landmark, selected frame, and
+  route or pressure that the player can keep using.
+- From [humans.md](humans.md): an object's state, one hand-noticed property,
+  and a sourced sense after access.
+- From [experts.md](experts.md): silhouette, behavior, telegraph, and a
+  fictional consequence rather than a stat-block recital.
+- From [npcs.md](npcs.md): one Face, a current action, a want, and an
+  answerable turn.
 
-A name has to survive the next action, and it has to be earned. First sight carries the trait in the clause — a torn left ear, a white blaze, a kinked tail, a black mane — while the body drops, fans, or holds. The handle (Split-ear, White-blaze) waits until the table has seen that trait, or until a player names it. "The one on the step" and "the one chewing" fail the moment the pack moves. A handle that lands before the picture is the same failure from the other side.
-
-## Words that earn their place
-
-A modifier stays if it changes what they can do or what they would draw — rusty, half-open, fire-scarred, rust-red, person-wide, striped and spotted. A modifier that only raises the register goes.
-
-Prefer the verb that does the job — scrapes, folds, leaks, twitches, slaps, hooks — over a weak verb plus an adverb.
-
-One comparison is the anchor — like a hyena, long as a man's forearm. A line of similes is a catalog in costume.
-
-Em dashes are legal in speech. One in a passage can hold a turn. A hinge in every sentence is the model clearing its throat.
-
-## After both gates
-
-Read the line out loud.
-
-- If you ran out of air before the live bit, it is a novel. Cut the opening.
-- If a player still cannot sketch the anchors or the lead body, add the missing familiar noun, the missing silhouette, or the missing visual. Nothing else.
-- If they are holding more than five subjects, cut texture that minted a new one.
-- If claws, spit, eyes, or a marking each took a sentence, fold them.
-- If a handle landed before the trait was visible, put the trait back in the clause and drop the handle.
-- If the last line explains the mood, delete it. Name the object that moved or was caught, and where it sits from the stage.
-- If the spoken block has no stop before the focal reveal and the user is still in the doorway, emit less. If they asked to set the whole scene, keep one camera and end on the playable change.
-- If the page has Layer labels, headings, or a note about the draft, delete them. The read-aloud is the answer.
+Keep the move and leave the setting. Attribution belongs in reference prose,
+not in the player's spoken line.

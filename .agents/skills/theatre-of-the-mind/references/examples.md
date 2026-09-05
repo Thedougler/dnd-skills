@@ -1,10 +1,25 @@
 # Worked beats
 
-Same moment, written badly and then plainly. House style. The job name changes. The beat does not.
+Same moment, written badly and then plainly. House style. The job name changes,
+and so does the payload and stopping point. The spatial examples keep a camera
+and drawable anchors; the object, dialogue, recap, handout, vision, and
+transition examples show why those tools are not universal.
 
-Use these as an ear for any content — place, object, creature, person, fight, travel, return, magic, treasure, loaded encounter. Not a script to copy.
+Use these as an ear for any content — place, object, creature, person, fight,
+travel, return, magic, treasure, loaded encounter. They are technique
+demonstrations, not scripts to copy. Extract supported facts with provenance,
+set example wording aside, and draft a fresh structure; expert and fixture
+phrases must not be echoed into generated prose.
 
-A first look is lossy. Name the camera and the three anchors before the draft. Split a loaded scene into draft layers. Emit one spoken block. If they are still in the doorway, emit only what that camera holds. Fold color, anatomy, and markings onto the verb the subject is already doing. Isolated one-fact sentences and premature handles are weak, even when every fact is accurate.
+A first look is lossy. For a spatial pass, choose the frame and useful anchors
+before drafting. Split a loaded scene into draft layers when needed. Fold color,
+anatomy, and markings onto the verb the subject is already doing. Isolated
+one-fact sentences and premature handles are weak, even when every fact is
+accurate. When the request is a full or loaded first look, the final player
+facing block still includes every relevant visible subject, relationship, route,
+and current motion before it stops; the attention hierarchy keeps that complete
+state drawable. A doorway-only partial pass applies only when explicitly asked.
+Other surfaces stop at their own player opening.
 
 Human table examples live in [humans.md](humans.md). Published boxed text and live-table place passages live in [places.md](places.md). Creature and fight lines live in [experts.md](experts.md). Person first looks live in [npcs.md](npcs.md). The ear and the slop gate live in [voice.md](voice.md).
 
@@ -88,9 +103,9 @@ The one on the rail looks down the stones. Then it jumps.
 
 Every claw, string of spit, and marking gets its own sentence. The table hears an inventory. Split-ear arrives as a name before anyone has seen a torn ear. The pack is stationed, not moving into place.
 
-**Strong**
+**Strong — survey frame with route and retreat**
 
-The pebble beach is only a few strides deep. At one end the inlet squeezes white water through a gap in the rocks. At the other a broken hull sits above the tide line, open side to the surf, barnacles and wet rope still on the rail. Behind the wreck, stepped dark stone climbs the slope, green moss in the cracks, evening fog already on the first steps. Surf slaps the hull. The low tide smells of rot and wet wood.
+The pebble beach is only a few strides deep. At one end the inlet squeezes white water through a gap in the rocks. A small boat rides just outside that gap, bow pointed seaward. At the other a broken hull sits above the tide line, open side to the surf, barnacles and wet rope still on the rail. Behind the wreck, stepped dark stone climbs the slope, green moss in the cracks, evening fog already on the first steps. The wreck's open side offers cover; the boat and the gap are visible retreats. Surf slaps the hull. The low tide smells of rot and wet wood.
 
 Something comes over the terrace wall ears-first: long rust-red ears, then a body the size of a big wolf, striped and spotted like a hyena, heavy through the shoulders, its black claws hooking the wreck's rail as pink spit strings from its muzzle. Its red eyes fix on the beach.
 
@@ -135,6 +150,13 @@ A nightmarish abomination looms from the dark, the very air seeming to recoil. I
 **Strong — first look**
 
 Something heaves up out of the water at the far side of the pool — as tall as two men, rubbery and green, with three arms and a fire-scar down the left side. It is already coming, dripping, hands open.
+
+**Strong — group subject and drawable scale**
+
+The roosting colony lifts all at once. Wingtip to wingtip, each bat spans
+three to four feet; the colony streams away, leaving the roost empty. Add a
+skylight or other destination only when the current sightline establishes it.
+Habitat belongs only in the clause that seats the colony's entrance or motion.
 
 **Strong — mid-round hit**
 
@@ -301,7 +323,11 @@ Camera: at the tree line, looking across. Anchors: the ring, the graves under th
 
 From the last sick trees the clearing is a short run across. Those trees stop at an unbroken ring of black flowers. Inside the ring the grass is short and wet-green. A fruit tree stands over two low mounds. Sweet rot lifts off the fruit. A drop leaves a pear and hits the nearer mound. At the tree line a bird as tall as a horse stands on one long foot. Beside it a man-sized bundle of dead branches leans among the trunks, easy to miss until it shifts. Between the graves a figure stands taller than a man, bone showing through moss and bark. Dark hair hangs to the ribs with fruit caught in it. Green fire sits in the sockets. One hand rests on a vine-wrapped staff. The fire turns toward the open grass.
 
-If they are still in the trees and have not stepped into the ring, stop after the pear hits the mound. That is a shorter spoken block, not a heading.
+If the request is only for the doorway snapshot, stop at the current opening;
+that is a shorter spatial pass, not a heading. If the request is for the whole
+static scene, include every visible occupant, object, route, and current motion
+in this one coherent block, ordered by attention. Do not omit a visible body
+merely because the party has not stepped closer.
 
 ## What is there
 
@@ -335,6 +361,25 @@ You set your hand on the crate and a puff of dust lifts. Under the dirt, a date 
 
 The blade on the pedestal has no rust in this damp room. Warm on the palm. A faint tingle up the arm. The hilt is silver ash leaf — Grey Elf work, Western Woods.
 
+## Object access
+
+The interaction state controls the detail. Holding an intact object does not
+turn an exterior impression into an inspection.
+
+**Weak — invented access**
+
+You take the stonepear in hand. Its skin barely yields, grit shifts under the
+skin, and its magic tastes of old graves.
+
+**Strong — intact and held**
+
+In your hand, the intact stonepear shows a grey-green exterior; lifting it
+reveals an unusual weight.
+
+The strong version reports only contact and leaves the declared inspection to
+the player. If they cut it, taste it, or use established expertise, describe
+that resolved result in the next branch.
+
 ## Return visit
 
 **Weak — redrawing the portrait**
@@ -354,6 +399,23 @@ The wizard casts Fireball. It deals 28 fire damage in a 20-foot radius. The cult
 **Strong**
 
 The robes catch. He goes down in a heap of charred meat. He is dead. The two behind him are still coming through the smoke.
+
+## Creature manifestation
+
+**Weak — mechanics on first look**
+
+A silence moth fills the passage. Its 30-foot aura causes suffocation and
+forces a DC 17 save before you can speak.
+
+**Strong — buildup, not the stat block**
+
+Under the canopy, thumb-sized moths — colorless and pale — gather into a
+sail-wide cloud. Ambient sound dies before the cloud reaches you. Its leading
+edge drifts through the trees and blots the light.
+
+Keep the exact radius, DC, condition, and hidden ability in `[!mechanic]` or
+`[!secret]-` until the parent, character knowledge, or a resolved interaction
+makes them public.
 
 ## After they act
 
@@ -377,22 +439,111 @@ The queen is angry and dismisses you. She seems uninterested in your arguments.
 
 She stalks back to the throne and waves you off without looking at you. The doors are already opening.
 
-## Same beat, any frame
+## Business
 
-Camera. Abnormality. Anchors. One live sense or motion. Silhouette. Focal body. Playable change. Stop. A first look also needs a familiar size and kind, and enough picture to sketch the anchors — not the catalog.
+**Weak — metadata spoken aloud**
 
-Name the camera and the three anchors before the draft. If the spoken block mints a fourth subject, fold it or cut it. If the scene is loaded, draft layers, then emit one spoken block.
+Anchor & Line is a working tavern for general traffic with seating and drinks
+on offer.
 
-| Job | Camera | Anchors | Playable change |
-| --- | --- | --- | --- |
-| Place | from the door, one low hall | fire, bar, stairs, half-open kitchen | innkeeper watching the door |
-| Beach | on the shingle, a few strides deep | wreck, terrace stone, the rail | the one on the rail jumps |
-| Clearing | from the tree line, a short run across | unbroken flower ring, graves under the tree, the figure | a pear hits the nearer mound; the fire turns |
-| Aerial | far below you, the canopy | torn lane, glass-pale body, lake ahead | a tendril snaps taut toward that air |
-| Object | on the pedestal | no rust in a damp room | warm on the palm |
-| Creature | far side of the pool | big as two men, three arms, fire-scar | already coming, hands open |
-| Person | behind the bar | gold ring on the same glass | she has already seen you |
-| Fight | other side of the crack | two friends, one ogre | nearly on top of you — what do you do |
-| Trail | ahead through the fern | person-wide path, wet undersides | one fern twitches, then the next |
+**Strong — supported service in use**
 
-If a draft has no row like that, it is not done. If the row has more anchors than a listener can keep, it is not done either.
+Dockworkers and sailors sit along the long benches with cheap rum before them.
+A canvas screen marks the Rattkin section. The scene shows the established
+service through concrete activity and a usable signature; it adds no proprietor,
+staff, menu, price, room, stock, or quest. If the parent supplies no interface
+or current action, stop outside narration or route upstream rather than invent a
+handoff.
+
+## Vehicle
+
+**Weak — place branch with invented restriction**
+
+The huge ship waits at the dock. Its empty crane swings over the gap. Only four
+people can board through the narrow hatch.
+
+**Strong — spatial/entity hybrid**
+
+From the dock, a black-hulled cargo boat fills the berth, broad enough to leave
+only a hand's width of water on either side. Its stern drifts against the tide
+while an empty crane swings over the cargo deck, cable tapping the mast. A
+gangway joins the dock to an open side hatch; the wheelhouse door stands ajar
+above it. The gangway and hatch are the visible interfaces, and the open door
+offers a clear point of contact.
+
+The strong version gives silhouette, scale, movement, a named relationship,
+one operational signature, and a visible opening without guessing party size
+or a boarding restriction that the scene has not established.
+
+This self-contained example establishes its dock, gangway, hatch, and
+wheelhouse. Do not transfer those access facts to another vehicle without
+parent support.
+
+Where a parent is silent about an interface, do not convert that silence into
+“no gangway,” “empty dock,” or “closed access.” State only the named environment
+and supported interface; for example, open water between two identified hulls
+does not establish which access methods are absent.
+
+## Standalone portraits
+
+These are self-contained references, not situated scenes. They have no assumed
+viewer, party, current motion, encounter pressure, or handoff.
+
+**Item — cold appearance**
+
+The intact stonepear has a grey-green exterior and unusual heft when lifted.
+
+**Item — state-qualified views**
+
+A light-green melon remains afloat in shallow water, its dimpled rind answering
+a tap with a hollow note. A cross-section exposes a grid of air cells that
+squeak under pressure. These are established states, not an assumption that an
+intact viewer has already cut it open.
+
+**Creature — stable identity**
+
+A cave bat is a small dark mammal with leathery wings and hooked claws. It
+navigates by echo and clings to stone.
+
+**Creature — response without explanation**
+
+The Glass Cricket is a pale cave insect with long legs and antennae; when
+nearby rock shudders, it freezes in place.
+The response is observable; no unseen mover or warning meaning is supplied.
+
+**Place — neutral region overview**
+
+The Cave is a buried network of old lava tubes beneath Aruhe. Some passages are
+walking-wide while others open into broad chambers or pinch into crawls; roots
+and occasional daylight breaks enter from above. Echoes travel farther than
+expected, and low spaces can collect bad air. The Great Bore offers a long,
+nearly straight passage, the Daylight Hole climbs back toward the surface, the
+Drowned Tube carries dark water, and the Old Mouth is the broad collapsed
+entrance.
+
+Each portrait supplies a recognizable whole, defining traits, and ordinary
+observable use only because those facts are established in the example. A
+portrait must not grow a camera question or scene event around the subject. If
+the source has many headings, regroup its public facts by this contract rather
+than preserving its section order.
+
+## Same world, different contracts
+
+The same place can supply different outputs. Route the output by the player's
+need instead of replaying the whole setting.
+
+| Surface | Primary payload | Natural stop |
+| --- | --- | --- |
+| Place | selected frame, landmarks, route, pressure | visible choice or micro-reveal |
+| Object | current interaction state and affordance | declared interaction |
+| Creature | manifestation, telegraph, response opening | reaction point |
+| Dialogue | want now, tactic, one utterance | answerable turn |
+| Recap | play-made truth and current pressure | tonight's live handle |
+| Handout | owner, purpose, actionable payload | useful rereading |
+| Vision | subjective sensation and uncertainty | image shift or choice |
+| Transition | time/cut and what changed | new situation oriented |
+| Standalone portrait | one subject's complete established player-visible identity | recognition and ordinary use/behavior when supplied |
+
+Spatial passages can use a private staging card. The other branches use their
+own contract and are not incomplete because they lack a camera or a located
+change.

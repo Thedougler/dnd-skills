@@ -1,14 +1,71 @@
 # Expert table lines
 
-Verbatim prose from named DMs. Copy the move, not the setting. Attribution stays with the line so the ear knows whose table it came from.
+Verbatim prose from named DMs. Copy the move, not the setting or wording;
+attribution stays with the line so the ear knows whose table it came from.
+Creature prose has a different payload from a place or object: body, behavior,
+telegraph, and the fictional consequence the table can respond to. When a
+creature or group is requested, make it the grammatical and attentional
+subject; habitat gets only enough seat to locate its entrance or motion. For a
+group, use a collective noun, one supported formation or motion, and one
+supported visible consequence. Turn supported numeric scale into a drawable
+body relation where possible without inventing an outside comparison.
 
-Read this file when the job is a creature, a first look at a monster, a combat turn, a hit, a kill, or telling identical bodies apart. Check [examples.md](examples.md) and [voice.md](voice.md) on every pass. Steal one place landmark from [places.md](places.md) and hang the body on it.
+Read this file when the job is a creature, a first look at a monster, a combat
+turn, a hit, a kill, or telling identical bodies apart. Check [examples.md](examples.md),
+[voice.md](voice.md), [boundary.md](boundary.md), and [surfaces.md](surfaces.md)
+on every pass. Steal one place landmark from [places.md](places.md) only when
+the fight's spatial field needs it, and hang the body on that landmark.
 
 When the job is the room the fight is in, start in [places.md](places.md). When the job is a person the party can talk to, start in [npcs.md](npcs.md).
 
+## Vehicle move
+
+James Haeck, vehicle encounter — an operational signature with named parts:
+
+> A crane emerges from a panel on the deck and drops a long cord with a hook.
+
+Use the visible-operation technique and both endpoints when the parent supports
+them; rephrase the result and never import an access interface from this example
+into another vehicle.
+
 ## First look
 
-Seat it on the same camera as the place. Silhouette first — shape, scale, posture, then the wrong fact. Familiar size and kind. Two or three facts that will still be true after it moves, folded onto the one verb the body is doing. Posture carries table meaning — watching the path, weight on one foot, wings half-spread for balance. Camouflage is what a looker would miss — moss on the wings blending into the leaves. Color attaches to that verb: red eyes fix on the path. Do not stack four motion verbs on the same body, and do not give claws, spit, or eyes their own sentences. Kitchen-table body first — swollen clear body, not swollen lobed mantle. Save one striking fact for the first movement. End on a located change — name what moved or was caught and where it sits from the stage. A first look may take the Angry GM rat floor — several small visible facts hung on one body across the scene — not five facts dumped in the establishing shot, and not five short sentences that isolate each fact.
+For a creature in a spatial field, seat it on that field's camera. In a
+standalone portrait, omit the field and current motion and give the stable
+body instead. Silhouette first — shape, scale, posture, then the wrong fact.
+Familiar size and kind.
+Two or three observable facts that will still be true after it moves, folded
+onto the one verb the body is doing. Posture carries table meaning — watching
+the path, weight on one foot, wings half-spread for balance. Camouflage is what
+a looker would miss — moss on the wings blending into the leaves. Color
+attaches to that verb: red eyes fix on the path. Do not stack four motion verbs
+on the same body, and do not give claws, spit, or eyes their own sentences.
+Kitchen-table body first — swollen clear body, not swollen lobed mantle. Save
+one striking fact for the first movement. Keep visible manifestation,
+permissible inference, and mechanic/secret separate. Exact aura radius, DC,
+condition, HP, or hidden ability belongs outside first-look prose unless it is
+known or earned. Stop at the reaction point or next opening, not a forced
+located change. A first look may take the Angry GM rat floor — several small
+visible facts hung on one body across the scene — not five facts dumped in the
+establishing shot, and not five short sentences that isolate each fact. Do not
+resolve a hit or contact before the table acts; show the reaching line, posture,
+or buildup, then resolve the contact in the next branch.
+
+If time or habitat leads while the requested creature remains a generic noun,
+run the thin gate again: move the body to the grammatical subject and cut any
+setting detail that does not seat its entrance or motion. Do not let an
+attention aid become a habitat description.
+
+## Standalone creature portrait
+
+Use a species identity card rather than a scene: stable body plan and
+silhouette, scale, one supplied persistent marker or material, ordinary
+observable behavior, and habitat only as stable ecology. A behavior response
+may pair an observable stimulus with an observable response; cut any unseen
+mover, cause, meaning, direction, or intent unless public canon explicitly
+establishes it. The cold portrait omits exact abilities, speeds, effects,
+durations, DCs, tactics, private biology/history, and secret identity. A name
+alone does not justify a marker such as “glass-clear.”
 
 Mike Shea (Sly Flourish), four trolls — three facts, fourth handed to the table:
 
@@ -160,6 +217,7 @@ A playable fight still names what the table must be able to point at. "Water tic
 - A delayed reveal of the worst body is earned by cutting detail before it, not by stacking more pictures in front of it.
 - Reuse the same landmark on the next line.
 - Mid-round hits stay short. Deaths and morale changes get the extra breath.
-- End on a live fact with a place — he is dead beside the crack, it is about to flee toward the stairs, the fire turns toward the open grass, dirt jumps along the path toward the bank, what do you do, what does the fourth look like.
+- End on a live fact with a place when this is a spatial fight — he is dead beside the crack, it is about to flee toward the stairs, or dirt jumps along the path toward the bank. For a creature-only first look, stop on the current reaction or opening; do not manufacture a located change.
+- Keep rules separate. A first look can show a circle of grass paling, moths dropping, or breath failing after contact; the exact aura radius, DC, condition, and hidden ability stay in `[!mechanic]` or `[!secret]-` until earned.
 - The Monster Manual name waits until the viewpoint has earned it, unless the table already knows the thing on sight.
 - Mid-round stays short enough to say over the table. Deaths may take the extra breath in the RPG Thoughts lines. Chat and SillyTavern still stop on the usable fact.

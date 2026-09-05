@@ -1,14 +1,26 @@
 # Person first looks
 
-Verbatim table prose from named DMs. Copy the move, not the setting. Attribution stays with the line.
+Verbatim table prose from named DMs. Copy the move, not the setting or wording.
+Attribution stays with the line. These are analysis examples, not player-facing
+sentences to echo.
 
-Read this file when the job is an NPC, a person the party can talk to, a first meeting, a Face, an innkeeper, a bartender, or anyone already doing something when the door opens. Check [examples.md](examples.md) and [voice.md](voice.md) on every pass. Steal one object or creature move — a hand-fact, a body already in motion.
+Read this file when the job is an NPC, a person the party can talk to, a first
+meeting, a Face, an innkeeper, a bartender, or anyone already doing something
+when the door opens. Check [examples.md](examples.md), [voice.md](voice.md),
+[boundary.md](boundary.md), and [surfaces.md](surfaces.md) on every pass. Steal
+one object or creature move — a hand-fact, a body already in motion.
 
 When the job is the room they stand in, start in [places.md](places.md). When the job is a monster, a fight turn, or identical enemy bodies, start in [experts.md](experts.md). When the job is an object in their hands, start in [humans.md](humans.md).
 
 ## First look
 
-Seat them on the camera — behind the bar, at the kitchen table, coming through the far door. One Face. What they are doing. Stop on a playable change: they look up, the glass stops, the hand stays on the map. One spoken block. No labels.
+Give the person a reusable Face, their established current objective, and an
+action or physical cue. Seat them in the scene only when the surrounding place
+is part of the requested surface — behind the bar, at the kitchen table,
+coming through the far door. Stop on a playable change: they look up, the glass
+stops, the hand stays on the map. Do not invent a hidden motive to fill the
+objective; dialogue gets its own want-now, tactic, utterance, and answerable
+turn contract in [surfaces.md](surfaces.md).
 
 Matt Mercer (Polygon, with Deborah Ann Woll, 2026) — two or three visuals, how they hold themselves, one smell, already moving:
 
@@ -90,9 +102,9 @@ Matthew Mercer, Critical Role C1E1 — drunk champion as one body on the bar, al
 
 ## What to copy
 
-- Seat them — behind the counter, at the far table, in the house instead of the forge, edge of the bar.
+- Seat them when the surrounding place matters — behind the counter, at the far table, in the house instead of the forge, edge of the bar.
 - One Face a player could point at next session — red scarf and yellowed teeth, spectacles and a yardstick, pallid and hunched, burnt, sharpening a knife. The Face is the anchor. Costume inventory is texture. Do not spend five visual facts on a first meeting, and do not give eyes, ring, and scarf each their own sentence.
-- What they are doing — cleaning glasses, cracking the yardstick, baking a cake, approaching with unexpected haste. Fold the Face onto that verb: an older woman too busy to chat, fancy gold ring turning on her finger while she wipes the same glass.
+- What they are doing and what they are trying to do now — cleaning glasses, cracking the yardstick, baking a cake, approaching with unexpected haste. Use only an established objective; fold the Face onto that verb: an older woman too busy to chat, fancy gold ring turning on her finger while she wipes the same glass.
 - One non-sight sense when it has a source — lantern oil and harsh whiskey, clipped voice, hammer on steel.
 - Repeat the same Face words on the return visit.
 - Third person is allowed. “He seems nervous” is a finished line.
