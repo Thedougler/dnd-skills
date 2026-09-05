@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "transcribex": {
+      "command": "/Applications/TranscribeX.app/Contents/Helpers/transcribex",
+      "args": ["mcp"]
+    }
+  }
+}
