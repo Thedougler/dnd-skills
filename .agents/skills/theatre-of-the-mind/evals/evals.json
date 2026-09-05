@@ -144,6 +144,46 @@
         "Does not disclose Blackrail identity, diet, tactics, learned flow-direction rule, DCs, possible/unconfirmed links, hidden lore, or future outcomes, and does not turn source silence into a negative claim.",
         "Groups facts by neutral portrait contract in fresh prose rather than copying recognizable clauses, distinctive metaphors, or the parent's section order; completeness is the public descriptive identity, not every GM heading."
       ]
+    },
+    {
+      "id": 15,
+      "prompt": "Write a player-facing first look from the doorway of a small roadside watchroom. It is a long stone rectangle: a narrow door at the far end opens to a courtyard, and an open shutter on the right faces the road. Mara, an older woman with a red scarf and cracked spectacles, sits at a table beneath the shutter, sorting wet maps into a brass case; she looks up when the party enters. Her established current objective is finding a missing courier, but no motive or backstory is known. Keep the spatial job primary while folding in Mara's Face and current action, then leave an answerable opening.",
+      "expected_output": "A spatial first look gives the room's viewpoint, usable routes, and relevant layout first enough to orient play, folds Mara's established Face and current map-sorting action into that space, and stops when her look or objective creates an answerable opening. It does not replace the room with an NPC biography or dictate what the party does.",
+      "expectations": [
+        "Keeps the doorway camera, far courtyard door, road-facing shutter, and relevant room relationships clear rather than routing as a standalone NPC portrait.",
+        "Uses Mara's red scarf, cracked spectacles, map-sorting action, and established courier objective as a compact Face/current-action payload without inventing history, motive, or unsupported sensory detail.",
+        "Leaves a live, answerable opening through Mara's look, action change, or supported offer without narrating the party's response or forcing a question."
+      ]
+    },
+    {
+      "id": 16,
+      "prompt": "Write one player-facing first look from a dry ledge in a flooded vault. A large horned river drake crouches between the party and a brass key resting visibly in a shallow stone basin; one foreclaw touches the basin rim and its head turns toward the party. The ledge has one narrow dry approach, with dark water below it. The key has not been touched and no check has been resolved. Make the creature the grammatical and attentional subject while keeping the creature-key-access relationship clear. Do not invent a motive, petrification, statistics, or hidden ability.",
+      "expected_output": "A creature-first spatial description makes the drake's current body and response the primary subject, clearly shows the visible key and the dry approach between them, and stops at the creature's response or the players' opening. It does not supply a hidden guarding motive or unearned mechanics.",
+      "expectations": [
+        "Makes the horned river drake the grammatical and attentional subject, using the crouch, foreclaw, and head turn as current observable action rather than leading with the key or room catalog.",
+        "Preserves the visible brass key, stone basin, narrow dry approach, and water boundary so the item and its supported access relationship remain drawable.",
+        "Excludes an invented motive, petrification claim, statistics, hidden ability, or resolved contact and leaves the next response to the players."
+      ]
+    },
+    {
+      "id": 17,
+      "prompt": "From a canal dock, describe the Copper Ladle, a squat flat-bottomed kitchen boat moored between two posts. Its port side has one open serving hatch facing the dock, and a cook passes bowls of soup through that hatch to waiting customers. The hull, roof, and hatch are visible; no gangplank, cabin access, extra stock, additional crew, seating, route, or capacity is established. Write a player-facing description of this business operating through its vehicle geometry without inventing those missing details.",
+      "expected_output": "A vehicle/business hybrid uses the dock viewpoint and hull geometry to explain the single supported soup-serving interface, names the boat and the cook/customer relationship, and stops at that usable service opening. It does not invent access, stock, crew, seating, route, capacity, or business metadata.",
+      "expectations": [
+        "Keeps the Copper Ladle's boat silhouette and mooring relationship visible while making the open port-side hatch the supported service interface.",
+        "Shows the cook passing soup through the hatch to customers without inventing a gangplank, cabin, additional staff, stock list, seating, route, or capacity.",
+        "Stops at the service opening or a natural customer handoff instead of turning the vehicle into a generic tavern or narrating unsupported absences."
+      ]
+    },
+    {
+      "id": 18,
+      "prompt": "Write one coherent spoken block for a full loaded first look at a fixed rectangular quarry court. The party stands at its west entrance. A path behind them returns to the river landing; a narrow trail leaves through a broken east gate and continues inland. A collapsed foreman's wall on the south side is usable cover. Jori, an older surveyor with a yellow rain cloak, stands at the north winch tightening a rope. Three mud-coated hounds move shoulder-to-shoulder from a dry cistern toward Jori. A silver ring is hidden under a loose flagstone near the wall and is not visible. Include every relevant visible relationship, route, cover, NPC, and creature formation/motion before stopping; exclude the hidden ring.",
+      "expected_output": "One complete spatial block orients the west-entrance camera, visible retreat to the river landing, inland east route, usable cover, Jori's Face and current winch action, and the hounds' formation and motion in relation to Jori and the court. It excludes the hidden ring and stops only after the visible state is complete at a live pressure or choice.",
+      "expectations": [
+        "Includes the visible retreat path, connected inland trail, collapsed-wall cover, Jori at the north winch, and all three hounds moving shoulder-to-shoulder as one coherent current state.",
+        "Makes the relationships drawable: the party's west entrance, routes, cover, Jori's position/action, and the hounds' movement from cistern toward Jori are not isolated catalog facts.",
+        "Excludes the hidden silver ring, mechanics, and future outcomes, and does not stop at an early micro-opening before the complete visible state is conveyed."
+      ]
     }
   ]
 }
