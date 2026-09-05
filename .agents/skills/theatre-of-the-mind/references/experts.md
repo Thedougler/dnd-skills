@@ -60,12 +60,13 @@ attention aid become a habitat description.
 
 Use a species identity card rather than a scene: stable body plan and
 silhouette, scale, one supplied persistent marker or material, ordinary
-observable behavior, and habitat only as stable ecology. A behavior response
-may pair an observable stimulus with an observable response; cut any unseen
-mover, cause, meaning, direction, or intent unless public canon explicitly
-establishes it. The cold portrait omits exact abilities, speeds, effects,
-durations, DCs, tactics, private biology/history, and secret identity. A name
-alone does not justify a marker such as “glass-clear.”
+observable behavior, and habitat only as stable ecology. A response state uses
+the terminal pattern in [boundary.md](boundary.md): observable stimulus →
+observable response → stop. Cut any unseen mover, cause, direction, meaning,
+threat, or tactical interpretation, including hedged assertions. The cold
+portrait omits exact abilities, speeds, effects, durations, DCs, tactics,
+private biology/history, and secret identity. A name alone does not justify a
+marker such as “glass-clear.”
 
 Mike Shea (Sly Flourish), four trolls — three facts, fourth handed to the table:
 

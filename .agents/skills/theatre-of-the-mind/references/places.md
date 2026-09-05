@@ -34,10 +34,12 @@ encounter, plot, or camera. Cover overall form and scale, topology and vertical
 relationships, major established public landmarks, established/public
 approaches, sensory character, and recognizable public hazard manifestations.
 Include established physical geography even when it spans a large region; a
-compact overview followed by coherent paragraphs is enough. Exclude rumors
-unless attributed, hidden or earned routes, exact mechanics, named hidden
-creatures or threats, tactics, design commentary, and future outcomes. Group
-facts by this portrait contract rather than replaying the parent's headings.
+compact overview may help, but it is not a required first section or universal
+order. Exclude rumors unless attributed, hidden or earned routes, exact
+mechanics, named hidden creatures or threats, tactics, design commentary, and
+future outcomes. Use this portrait contract as an unordered coverage audit, not
+a prose outline; choose an organizing spine independently rather than replaying
+the parent's headings or a fixed contract order.
 
 ## Arrival — published boxed text
 

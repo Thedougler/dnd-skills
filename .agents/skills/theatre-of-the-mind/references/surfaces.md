@@ -59,8 +59,10 @@ is contract coverage, not a dump of every parent heading.
 ## Standalone portrait contracts
 
 All standalone portraits default to the cold player-appearance layer above. Use
-the owning parent for facts, but regroup them by this contract and omit its
-private mechanics, tactics, lore, and unresolved claims.
+the owning parent for facts, but use this contract only as an unordered
+coverage checklist, not a prose outline; choose the organizing spine separately
+and omit private mechanics, tactics, lore, and unresolved claims.
+The fields below are coverage dimensions, not a required output sequence.
 
 - **Item:** identify the common whole or type, silhouette and scale,
   material/construction/parts, and one or two stable sensory or ordinary
@@ -72,9 +74,10 @@ private mechanics, tactics, lore, and unresolved claims.
 - **Creature:** make a species identity card: stable body plan and silhouette,
   scale, one supplied persistent marker or material, ordinary observable
   behavior, and habitat only as stable ecology. A response state reports the
-  observable stimulus and response, not an unseen agent, cause, meaning,
-  direction, or intent unless public canon explicitly establishes it. Do not
-  invent a marker from a name alone.
+  observable stimulus and response, then stops. Do not add an unseen agent,
+  cause, direction, meaning, threat, or tactical interpretation, including a
+  hedge. Do not invent a marker from a name alone. See the creature-response
+  gate in [boundary.md](boundary.md).
 - **Place or region:** give neutral structure, overall form and scale,
   topology and vertical relationships, major established public landmarks,
   established/public approaches, sensory character, and recognizable public

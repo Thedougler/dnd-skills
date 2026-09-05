@@ -522,10 +522,12 @@ Drowned Tube carries dark water, and the Old Mouth is the broad collapsed
 entrance.
 
 Each portrait supplies a recognizable whole, defining traits, and ordinary
-observable use only because those facts are established in the example. A
-portrait must not grow a camera question or scene event around the subject. If
-the source has many headings, regroup its public facts by this contract rather
-than preserving its section order.
+observable use only because those facts are established in the example. The
+order shown is illustrative, not a required contract sequence. A portrait must
+not grow a camera question or scene event around the subject. If
+the source has many headings, use the contract as an unordered coverage audit
+and choose an independent organizing spine rather than preserving its section
+order or turning the contract checklist into the prose outline.
 
 ## Same world, different contracts
 

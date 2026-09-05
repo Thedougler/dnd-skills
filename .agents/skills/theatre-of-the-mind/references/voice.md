@@ -55,10 +55,11 @@ become the subject. Generic mood is not evidence.
   “warning system,” “population,” “general traffic,” “provides seating,” or
   “on offer.” An item may state a general state-qualified view such as what a
   cut cross-section reveals, without pretending an intact viewer saw inside.
-- Creature response prose may pair an observable stimulus with an observable
-  response, but cannot add an unseen mover, cause, meaning, direction, or intent
-  unless that interpretation is explicitly public canon. A name alone does not
-  supply a persistent marker.
+- Creature response prose follows the terminal pattern in
+  [boundary.md](boundary.md): observable stimulus → observable response → stop.
+  Do not append an unseen mover, cause, direction, meaning, threat, or tactical
+  interpretation, including a hedge. A name alone does not supply a persistent
+  marker.
 - A standalone place or region uses neutral structure, topology, established
   landmarks and approaches, sensory character, and recognizable public hazard
   manifestations. Keep current inhabitants, encounters, plot, tactics, exact
@@ -74,14 +75,12 @@ become the subject. Generic mood is not evidence.
   handoff. Source silence is not evidence of absence, so do not narrate no X,
   emptiness, closed access, missing staff, or a missing route without positive
   viewpoint/current-state or parent evidence.
-- Source wording is not a player-facing template. Build a terse fact inventory
-  in fragmentary keywords with provenance/access and no source sentences. Set
-  source phrasing aside, group facts by the target contract rather than source
-  order, and draft with different subject order, syntax, verbs, and comparisons.
-  Compare against the polished parent and every read expert excerpt for clause
-  overlap, distinctive metaphor, callout, recognizable sequence, or matching
-  section order across paragraphs. Rewrite; synonym-swapping sentence by
-  sentence is not enough. Reference examples teach moves, not lines to echo.
+- Source wording is not a player-facing template. Follow the structural
+  fresh-phrasing gate in [boundary.md](boundary.md): make a fragmentary fact
+  bank, discard source architecture, choose an independent organizing spine,
+  recompose around it, then audit coverage and compare the whole result for
+  recognizable structure as well as wording. Reference examples teach moves,
+  not lines to echo.
 - Avoid telegram rhythm and isolated detail. Join claws, spit, eyes, color, or
   a marking to the sentence that already owns the body; reserve a short line
   for the actual payload, reveal, attack, or answerable turn.
@@ -147,9 +146,9 @@ evidence.
 | body has no familiar size or behavior | silhouette, scale, posture, or current motion |
 | habitat or time leads while a requested creature remains generic | make the creature/group the subject; retain only enough habitat to seat its entrance or motion |
 | a creature group has no drawable formation or consequence | collective noun plus one supported formation/motion and one supported visible consequence |
-| standalone creature explains a response with an unseen cause or meaning | name only the observable stimulus and response; cut the agent, interpretation, direction, or intent |
+| standalone creature response continues past the observable stimulus and response | stop there; cut the unseen actor, cause, direction, meaning, threat, or tactical interpretation, including hedging |
 | place has no orientation | the selected spatial frame, stage, and relevant route or exit |
-| standalone place repeats the source's section order or GM metadata | regroup neutral form, topology, public landmarks/approaches, sensory character, and public hazard manifestations |
+| standalone place repeats source order, contract order, or GM metadata | use an unordered public-portrait coverage audit and an independent organizing spine; keep private and unconfirmed material out |
 | vehicle has no access boundary | the visible deck, hatch, rail, gangway, or other interface |
 | action has no owner or counterpart | name the body and both ends of the relationship |
 | dialogue has no want or answerable turn | the tactic, physical cue, and one utterance |
@@ -161,7 +160,7 @@ evidence.
 | business prose repeats metadata or has no current service action | concrete service nouns and verbs; if unsupported, safe identification outside narration or upstream routing |
 | a negative claim rests only on source silence | positive viewpoint/current-state or parent evidence for the absence, otherwise cut the claim |
 | a portrait claims completeness by copying every parent heading | cover the target portrait contract only; keep private mechanics, tactics, lore, and unresolved facts out |
-| the draft retains source order or swaps synonyms sentence by sentence | rebuild from fragmentary fact keywords with a new order, syntax, verbs, and comparison; compare for overlap |
+| the draft retains source or checklist order, or swaps synonyms sentence by sentence | use an unordered coverage checklist as an audit, choose an independent organizing spine, then rebuild from fragmentary facts and compare structure as well as wording |
 | spatial field lacks a route, retreat, cover, or blocked path that matters | show the visible option or obstruction |
 | spatial ending is only mood | a pressure, opportunity, micro-reveal, or located change |
 | visual geometry is the subject (“same plane,” “green sitting,” “hole of noon”) | name the object and verb: moss blends into leaves; noon glare fills the valley |

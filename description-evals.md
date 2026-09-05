@@ -44,29 +44,23 @@ sailors present.
 
 Describe Breathmelon.
 
-Breathmelon is a pale-green, buoyant fruit with a rind marked by shallow dimples reminiscent of lung tissue. The rind has a hollow resonance. Eaten, it allows its user to breathe both air and water and to swim as readily as they walk.
+Breathmelon is a pale-green melon with a round, dimpled rind, light enough to bob in shallow water. Its rind answers a tap with a hollow ring. Cut open, the flesh shows a grid of air cells that squeak when pressed.
 
 ## Standalone monster
 
 Describe Glass Crickets.
 
-Glass Crickets are pale cave crickets, their bodies carried on elongated legs and long antennae. They move in sudden jumps, but become completely still when strong vibrations pass through nearby stone; that sudden stillness is a readable warning that something large is moving through the rock.
+Glass Crickets are pale cave insects with elongated legs and long antennae. They live around The Cave's root wells and in its damp chambers, moving in abrupt jumps. A heavy vibration through the basalt leaves them motionless.
 
 ## Standalone place
 
 Describe the Cave.
 
-The Cave is Aruhe’s subterranean basalt network, formed from long-cooled lava flows. Its walls alternate between broad dark sweeps and sharply folded ridges that preserve the shape of the old flows. Floors vary from mud and loose rubble to rough stone. Some branches are 10 to 30 feet wide and 6 to 20 feet high; others open into chambers more than 100 feet across, narrow below three feet, or drop through collapse shafts that join two or three tube levels.
+The Cave is Aruhe’s buried under-region, a broken vertical network formed from old lava flows. Black basalt runs in long curves, then bunches into frozen folds; its floors shift between mud, loose rubble, and rough stone. Tunnels range from broad walking passages to constricted crawls, with larger chambers and collapse shafts linking different levels.
 
-Separate flow systems meet where later collapses, flooded sections, root wells, and vertical shafts open connections. Tunnels fork, pinch closed, and reopen beneath the jungle through skylights hidden by heavy growth. Across the oldest systems, the main tubes tend to descend from the old volcanic highlands toward the coast and rise inland, though breaks in the rock interrupt that pattern.
+No single line governs the network. Tubes fork, pinch out behind collapses or flooded sections, and meet again where later breaks have joined separate flows. The Old Mouth is the broadest named entrance, a great collapse below the Old Gardens. Beneath the Quiet, the Daylight Hole opens through a collapsed skylight toward the green canopy. Entrances also break through beneath the Rot, where roots reach down through the basalt. Inside, the Great Bore runs nearly straight for about three miles at 25 to 40 feet wide; the Drowned Tube is filled wall to wall with still black water and continues below its surface. Root Wells break the ceilings with hanging pale roots and dripping water, sometimes carrying a dim green-grey glow from the deepest Rot sap.
 
-The largest known entrance is The Old Mouth, a huge collapse near the lower terraces of The Old Gardens. Nearby terrace breaks open into shallow tubes. Beneath The Quiet, overgrown root wells and skylights break through the ceiling; The Daylight Hole is a collapsed skylight with a shaft rising roughly seventy feet to a ring of green canopy. Beneath The Rot, deep roots penetrate the basalt and reach several cave mouths.
-
-The Great Bore is a nearly straight tube about three miles long and 25 to 40 feet across. The Drowned Tube is a major branch filled from wall to wall with still black water, with the passage continuing below the surface. Root Wells are roof breaches crowded with pale roots; water drips from them, blind insects feed there, bats roost overhead, and the deepest systems may carry a dim green-grey light from Rot sap.
-
-There is no sky or horizon underground, landmarks are scarce, and natural darkness fills every unlit reach. Sound travels through the stone and rebounds along branching passages, so a scrape or footfall can seem to come from beyond a wall or another tube. Low pockets may hold unbreathable air: flames weaken, headaches develop, breathing becomes labored, and dead cave insects collect near the bad air. Thin floors over older tubes can answer with a hollow note before collapsing into the level below. Surface rain can also burst through skylights and cracks, sending sudden floods down the lowest channels.
-
-The Cave’s passages support cave bats, root roaches, and Glass Crickets. Glass Crickets move in sudden jumps and serve as one of the cave’s warning signs when something large travels through the rock. The Blackrail is a forty-foot cave centipede that can use floor, wall, and ceiling alike. A heavy tremor may spread through several tubes before it is seen; loose dust sifts from the walls and many legs make a dry tapping.
+The interior has no horizon and little natural light. Echoes rebound through the stone, making distant sounds hard to place. In low pockets, flames weaken and breathing grows labored; hollow ground can give way into older tubes, and rain entering through skylights and cracks can surge through the lowest channels.
 
 ## Composite: NPC in a place
 

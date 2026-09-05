@@ -48,7 +48,9 @@ Before surface routing, decide whether the request is a **situated moment** or a
   Face and established characteristic behavior; vehicles add stable silhouette,
   scale, components, and operational character. Omit hidden truth, private
   mechanics, unearned lore, and absent or contradictory facts. Use a public or
-  earned name only when known; an unknown name stays unknown.
+  earned name only when known; an unknown name stays unknown. These are
+  coverage dimensions, not a required output sequence; choose the portrait's
+  organizing spine independently.
 
 The default standalone portrait is a cold player-appearance and observable-state
 layer, even when the owning parent is addressed to `[agent, dm]`. Include all
@@ -90,20 +92,21 @@ wrapper follows the host or page request; do not force an encounter question.
    only an inference grounded in named evidence; it cannot create access.
    Without a channel, cut the detail or route to the owning content-stock
    skill.
-5. Before drafting from an owning parent or reference, make a terse fact
-   inventory in fragmentary keywords only, with provenance and access; never
-   copy source sentences into that inventory. Set source and reference prose
-   aside, group the facts by the target contract rather than source order, and
-   draft with a different subject order, syntax, verbs, and comparisons. Compare
-   the result against the parent and every read expert excerpt for suspicious
-   phrase or sentence overlap, recognizable clauses, distinctive metaphors,
-   callouts, or matching section order across paragraphs. Rewrite; merely
-   swapping synonyms sentence by sentence is not enough. “Copy the move, leave
-   the setting” means technique only, never wording. The only narrow exception
-   is an established in-world quotation, inscription, or document the user
-   explicitly asks to reproduce verbatim; identify its owner and quotation then.
-   Expert examples in references are analysis examples, not lines to echo into
-   generated prose.
+5. For a standalone portrait, compose before you enumerate: make a private
+   thumbnail of the whole or type plus one dominant supported visible
+   distinction. Keep a private, unordered coverage checklist of supported
+   portrait facts; it is an audit, not an outline. Choose an organizing spine
+   independently of both source order and checklist order — a dominant
+   supported relationship, contrast, or use when the subject supplies one — and
+   draft around that spine and thumbnail. Relate remaining facts through
+   supported relationships among the subject's parts, material, habitat, and
+   behavior. Check the unordered checklist afterward so the hierarchy does not
+   omit a required fact; never turn its sequence into the prose order.
+6. Before drafting from an owning parent or reference, use the structural
+   fresh-phrasing gate in [references/boundary.md](references/boundary.md).
+   Make the fragmentary fact inventory there, then set source architecture and
+   wording aside before drafting. Expert examples in references are analysis
+   examples, not lines to echo into generated prose.
 
 ## Invariants across surfaces
 
@@ -112,8 +115,12 @@ wrapper follows the host or page request; do not force an encounter question.
   signature property — material, practice, sound, behavior, or contradiction —
   to a usable noun or affordance. Generic mood must come from evidence.
 - Characters perceive; players interpret. Never narrate a PC's feeling,
-  thought, choice, route, conclusion, or unresolved outcome. Show stimulus,
-  behavior, and consequence, then leave the response to the table.
+  thought, choice, route, conclusion, or unresolved outcome. Show the resolved
+  stimulus, behavior, and consequence, then leave the next player response
+  open. For a standalone creature response state, use the terminal pattern
+  `observable stimulus → observable response → stop`; do not explain what is
+  unseen or what the response means. See [references/boundary.md](references/boundary.md)
+  for the structural and creature-response gates.
 - Keep facts within the current viewpoint, established automatic knowledge,
   a declared and resolved interaction, or earned public canon. A permissible
   inference must follow from named perceivable evidence or established

@@ -40,21 +40,35 @@ unresolved fiction with its likely explanation.
 
 ## Fresh phrasing gate
 
-The parent and references provide facts and technique, not wording to repeat.
-Make a terse fact inventory in fragmentary keywords with provenance and access;
-never copy source sentences into that inventory. Set source and reference prose
-aside, group facts by the target contract rather than source order, and draft
-with a different subject order, syntax, verbs, and comparisons. Compare the
-result against the polished parent and every read expert excerpt for suspicious
-phrase or sentence overlap, recognizable clauses, distinctive metaphors,
-callouts, or matching section order across paragraphs. Rewrite; merely swapping
-synonyms sentence by sentence is not enough. Preserve proper names, necessary
-measurements, and irreducible game terms only when changing them would alter
-identity or accuracy. “Copy the move, leave the setting” means copy the
-technique, never the words. The sole narrow exception is an established
-in-world quotation, inscription, or document the user explicitly requests
-verbatim; identify its owner and quotation. Expert table lines in `experts.md`
-are instructional analysis, not player-facing text to echo.
+The parent and references provide facts and technique, not wording or
+architecture to repeat. Make a terse fact inventory in fragmentary keywords
+with provenance and access; never copy source sentences into that inventory.
+For a standalone portrait, use the target portrait contract to make a private,
+unordered coverage checklist; it is an audit, not an outline. Set the source
+aside and discard its headings, order, and clause grouping. Choose the portrait's
+organizing spine independently of both source order and checklist order — a
+dominant supported relationship, contrast, or use when the facts support one —
+and compose around it. Do not default to checklist sequence, a universal
+whole-to-detail order, or arbitrary shuffling. Recompose around that spine,
+materially changing the grammatical subject and attention order, fact grouping,
+and sentence boundaries or clause dependencies; relocate or change comparisons
+when the facts include them. This is a structural break check, not a style
+formula: sparse facts may leave an unavoidable relationship or sentence shape,
+and accuracy always wins over artificial variation.
+
+After writing, check off the unordered coverage checklist; do not reorder the
+draft to match it. Then compare the result with the polished parent and every
+read expert excerpt for phrase or sentence overlap, distinctive metaphors,
+callouts, and recognizable architecture: the same sequence or section
+progression, fact grouping, or clause dependencies. If the architecture is
+still recognizable, rebuild from the fact inventory rather than swapping
+synonyms. Preserve proper names, necessary measurements, and irreducible game
+terms when changing them would alter identity or accuracy. “Copy the move,
+leave the setting” means copy the technique, never the words. The sole narrow
+exception is an established in-world quotation, inscription, or document the
+user explicitly requests verbatim; identify its owner and quotation. Expert
+table lines in `experts.md` are instructional analysis, not player-facing text
+to echo.
 
 ## Standalone knowledge scope
 
@@ -92,6 +106,17 @@ suffocation before contact merely because the stat block contains them.
 Telegraph danger with an observable buildup — breath frosting, moths dropping,
 grass paling, a cough after someone enters — then resolve the mechanic when the
 table acts. A later public reveal may state the rule in the appropriate wrapper.
+
+## Creature response state
+
+For a cold standalone creature response, use the terminal pattern
+`observable stimulus → observable response → stop`. If useful, lead with
+“Evidence, not explanation:” and name only what the creature does when the
+stimulus occurs. Do not append an unseen actor, cause, direction, meaning,
+threat, or tactical interpretation, even as “may,” “seems,” or another hedge.
+Keep the creature's stable body, habitat, and ordinary behavior in the portrait
+contract; this stopping rule governs the response state and does not replace
+that coverage.
 
 ## Player agency
 
